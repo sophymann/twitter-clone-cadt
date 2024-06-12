@@ -1,0 +1,12 @@
+{
+    "editor.fontSize": 18,
+    "git.autofetch": true,
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": "always"
+    },
+    "github.copilot.editor.enableAutoCompletions": true,
+    "[vue]": {
+        "editor.defaultFormatter": "octref.vetur"
+    },
+}
